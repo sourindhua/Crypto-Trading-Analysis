@@ -24,12 +24,12 @@ Analyze how market sentiment (Fear vs Greed) impacts trader behavior and perform
 - 
 - **Conclusion:**  Traders perform better during high-volatility Fear conditions
   
-#####  PnL by Sentiment
+##  PnL by Sentiment
 
 PnL is significantly higher during Fear periods (~6M vs ~3M), showing that volatility creates better trading opportunities.
 
 ![Pnl](images/Pnl.png)
-- 
+-
 - ### 2. Behavioral Changes Based on Sentiment
 
 - Trade frequency increases during **Greed** periods
@@ -44,16 +44,16 @@ PnL is significantly higher during Fear periods (~6M vs ~3M), showing that volat
 #### a) Frequent vs Infrequent Traders
 - Frequent traders execute more trades but have slightly lower win rates
 - Infrequent traders show more stable performance
-  #####  Win Rate by Trader Type
+  ##  Win Rate by Trader Type
   Infrequent traders achieve higher win rates than frequent traders, indicating overtrading reduces efficiency.
   
-![Win Rate](images/Win_Rate.png)
+![Win_Rate](images/Win_Rate.png)
 -
 #### b) Consistent vs Inconsistent Traders
 - Consistent traders maintain steady PnL across sentiments
 - Inconsistent traders show high volatility in returns
 
- Conclusion: Higher activity does not always lead to better performance
+** Conclusion:** Higher activity does not always lead to better performance
 
  ##  Key Insights
 
@@ -61,7 +61,7 @@ PnL is significantly higher during Fear periods (~6M vs ~3M), showing that volat
 - Despite a relatively low win rate (~42%), overall profitability is high, indicating strong risk-reward dynamics
 - Infrequent traders achieve higher win rates than frequent traders, showing that overtrading reduces efficiency
 - Traders increase position sizes during Greed periods, reflecting higher risk appetite
-- 
+  
 - ##  Strategy Recommendations
 
 1. **Trade volatility, not sentiment direction**
