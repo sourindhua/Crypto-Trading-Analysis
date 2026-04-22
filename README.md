@@ -27,6 +27,7 @@ Analyze how market sentiment (Fear vs Greed) impacts trader behavior and perform
 #####  PnL by Sentiment
 
 PnL is significantly higher during Fear periods (~6M vs ~3M), showing that volatility creates better trading opportunities.
+
 ![Pnl](images/Pnl.png)
 - 
 - ### 2. Behavioral Changes Based on Sentiment
