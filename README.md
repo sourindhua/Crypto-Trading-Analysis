@@ -46,7 +46,8 @@ PnL is significantly higher during Fear periods (~6M vs ~3M), showing that volat
 - Infrequent traders show more stable performance
   #####  Win Rate by Trader Type
   Infrequent traders achieve higher win rates than frequent traders, indicating overtrading reduces efficiency.
-![Win Rate](images/Win Rate.png)
+  
+![Win Rate](images/Win_Rate.png)
 -
 #### b) Consistent vs Inconsistent Traders
 - Consistent traders maintain steady PnL across sentiments
